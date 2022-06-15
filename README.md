@@ -12,8 +12,6 @@ Building a simple CRUD Application with EJS NodeJS ExpressJS & MONGO
 ![App Screenshot](https://github.com/steve-ryan/subscribers_crud/blob/master/public/images/Screenshot.png)
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
 
 ## Tech Stack
 1.EJS 
